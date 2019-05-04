@@ -1,15 +1,3 @@
-# New Maintainers and Repository Location
-
-This repository no longer is the main location of "react-native-fetch-blob".
-
-The owners of this fork have agreed to maintain this package:
-
-https://github.com/joltup/rn-fetch-blob
-
-That means issues and PRs should be posted there.
-
----
-
 # react-native-fetch-blob
 [![release](https://img.shields.io/github/release/wkh237/react-native-fetch-blob.svg?style=flat-square)](https://github.com/wkh237/react-native-fetch-blob/releases) [![npm](https://img.shields.io/npm/v/react-native-fetch-blob.svg?style=flat-square)](https://www.npmjs.com/package/react-native-fetch-blob) ![](https://img.shields.io/badge/PR-Welcome-brightgreen.svg?style=flat-square) [![](https://img.shields.io/badge/Wiki-Public-brightgreen.svg?style=flat-square)](https://github.com/wkh237/react-native-fetch-blob/wiki) [![npm](https://img.shields.io/npm/l/react-native-fetch-blob.svg?maxAge=2592000&style=flat-square)]()
 
