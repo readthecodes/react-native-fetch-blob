@@ -5,6 +5,9 @@
 A project committed to making file access and data transfer easier and more efficient for React Native developers.
 > For Firebase Storage solution, please upgrade to the latest version for the best compatibility.
 
+## Fork for fix bugs
+- Issus: https://github.com/wkh237/react-native-fetch-blob/issues/608
+
 ## Features
 - Transfer data directly from/to storage without BASE64 bridging
 - File API supports regular files, Asset files, and CameraRoll files
